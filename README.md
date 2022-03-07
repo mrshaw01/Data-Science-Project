@@ -5,4 +5,5 @@ This project explores the particular patterns in the National Exam Entrance scor
 
 <br>Details plots and analysis are in the folder notebooks.
 
-https://github.com/mrshaw01/National-Exams-Results-EDA-and-Visualization/blob/main/demo.png?raw=true
+![alt text](https://github.com/mrshaw01/National-Exams-Results-EDA-and-Visualization/blob/main/demo.png?raw=true)
+
