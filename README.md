@@ -1,4 +1,4 @@
-# National exams results EDA and visualization
+# Vietnam High School Graduation Examination
 This project explores the particular patterns in the National Exam Entrance scores and analyzes the correlations between the results and explanatory variables to different extents (areas, subjects combination, and chronology). 
 
 <br>Run the app.py to view the dashboard for a summary of data and a score-exchange tool between years.
